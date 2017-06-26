@@ -13,6 +13,7 @@
 
     <modules>
         <module>java.beans</module>
+        <module>java.util.function</module>
     </modules>
 
 </project>
